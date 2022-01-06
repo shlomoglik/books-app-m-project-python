@@ -1,0 +1,63 @@
+{
+    "shelves": [
+        {
+            "books": [
+                {
+                    "author": "Stephen King",
+                    "title": "The Institute",
+                    "num_of_pages": 560
+                },
+                {
+                    "author": "Stephen King",
+                    "title": "Doctor Sleep",
+                    "num_of_pages": 672
+                },
+                {
+                    "author": "mapa",
+                    "title": "flowers",
+                    "num_of_pages": 520
+                },
+                {
+                    "author": "mapa",
+                    "title": "birds",
+                    "num_of_pages": 120
+                }
+            ],
+            "is_shelf_full": false,
+            "number": 1
+        },
+        {
+            "books": [
+                {
+                    "author": "J. K. Rowling",
+                    "title": "Harry Potter and the Prisoner of Azkaban",
+                    "num_of_pages": 250
+                },
+                {
+                    "author": "J. K. Rowling",
+                    "title": "Harry Potter and the Goblet of Fire",
+                    "num_of_pages": 230
+                }
+            ],
+            "is_shelf_full": false,
+            "number": 2
+        },
+        {
+            "books": [
+                {
+                    "author": "John Grisham",
+                    "title": "The Guardians",
+                    "num_of_pages": 320
+                },
+                {
+                    "author": "John Grisham",
+                    "title": "Sooley",
+                    "num_of_pages": 290
+                }
+            ],
+            "is_shelf_full": false,
+            "number": 3
+        }
+    ],
+    "readers": []
+}
