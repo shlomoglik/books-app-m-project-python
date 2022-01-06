@@ -1,5 +1,6 @@
 import pymongo
 
+
 class MongoManager:
      __instance = None
      @staticmethod 
